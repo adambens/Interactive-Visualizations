@@ -1,7 +1,7 @@
 # Interactive Visualizations
-This repository contains my visualization applications that make use of the interactive visualization library Bokeh.
+This repository contains my visualization applications, written in Python, that make use of the interactive visualization library Bokeh.
 
-to download and run these notebooks requires Bokeh. The official documentation for Bokeh can be found here : https://bokeh.pydata.org/en/latest/index.html
+The official documentation for Bokeh can be found here : https://bokeh.pydata.org/en/latest/index.html
 
 # Content
 ### [Gapminder Data]()
