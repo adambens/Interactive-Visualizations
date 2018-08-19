@@ -8,3 +8,6 @@ The official documentation for Bokeh can be found here : https://bokeh.pydata.or
 # Content
 ### [Gapminder Data](https://github.com/adambens/Interactive-Visualizations/blob/master/bokeh_data_explorer.py)
 Global Country Comparisions: Comparing country level data for important statistics such as gdp per capita, life expectancy, child mortality rate, and fertility rates over time.
+
+
+<img width="600" alt="img1" src="./Figures/Interactive-GapminderBirdMigrationPatterns.png">
