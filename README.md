@@ -10,4 +10,4 @@ The official documentation for Bokeh can be found here : https://bokeh.pydata.or
 Global Country Comparisions: Comparing country level data for important statistics such as gdp per capita, life expectancy, child mortality rate, and fertility rates over time.
 
 
-<img width="600" alt="img1" src="./Figures/Interactive-Gapminder.png">
+<img width="1200" alt="img1" src="./Figures/Interactive-Gapminder.png">
